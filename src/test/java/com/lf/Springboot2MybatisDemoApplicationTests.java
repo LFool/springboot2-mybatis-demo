@@ -1,7 +1,5 @@
 package com.lf;
 
-import com.lf.controller.UserController;
-import com.lf.model.UserDomain;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
